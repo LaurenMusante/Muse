@@ -1,0 +1,30 @@
+.sidebar {
+  float: left;
+  width: 20%;
+}
+.column {
+  float: left;
+  width: 40%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.date {
+  display:block;
+  margin-left: 5px;
+  font-weight: bold;
+}
+body {
+  background-color: #952702;
+  color: #93D3D9;
+}
+p {
+  text-align: justify;
+}
